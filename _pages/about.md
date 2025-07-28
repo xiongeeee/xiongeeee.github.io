@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year Phd student from Hefei University of Technology[HFUT]. My research interest includes probabilistic machine learning, uncertainty quantification.
+I'm a first year EngD student from Hefei University of Technology. My research interest includes machine leaning, probabilistic methods, uncertainty quantification, AI4sci(weather forecasting).
