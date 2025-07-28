@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year undergraduate student from HFUT. My research interest includes probabilistic machine learning, uncertainty quantification.
+I'm a first year Phd student from Hefei University of Technology[HFUT]. My research interest includes probabilistic machine learning, uncertainty quantification.
