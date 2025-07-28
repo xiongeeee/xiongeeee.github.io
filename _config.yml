@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xinlei Xiong's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
-  employer         : "Red Brick University"
+  employer         : "Hefei University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2521159964@qq.com" 
 
   # Academic websites
   academia         : # URL
